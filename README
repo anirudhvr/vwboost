@@ -1,0 +1,5 @@
+This is an implementation of
+[Adaboost](https://en.wikipedia.org/wiki/Adaboost) built on top of the
+amazing [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/). 
+
+More instructions soon
