@@ -1,5 +1,8 @@
 This is an implementation of
 [Adaboost](https://en.wikipedia.org/wiki/Adaboost) built on top of the
-amazing [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/). 
+amazing [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/)
+fast machine learning tool. 
 
-More instructions soon
+Contributions by Anirudh Ramachandran and Kilian Weinbereger, 2009
+
+More instructions soon.
